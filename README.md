@@ -24,7 +24,8 @@ The following is an example of how signup-server can be integrated into a websit
 </form>
 ```
 
-#### Javascript
+#### Javascript 
+*(requires jquery)*
 
 ```javascript
 // Get GEO data using ip-api service
