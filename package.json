@@ -1,0 +1,34 @@
+{
+  "name": "signup-server",
+  "version": "1.0.0",
+  "description": "A minimal email signup server for collecting website / landing page emails.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjw0051/Signup-Server.git"
+  },
+  "keywords": [
+    "email",
+    "signup",
+    "server",
+    "landing",
+    "page",
+    "website"
+  ],
+  "author": "TJ Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjw0051/Signup-Server/issues"
+  },
+  "homepage": "https://github.com/tjw0051/Signup-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "sqlite3": "^3.1.8",
+    "winston": "^2.3.1"
+  }
+}
