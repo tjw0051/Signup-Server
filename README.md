@@ -7,7 +7,7 @@ Its important to note that some countries and jurisdictions require a confirmati
 
 ## Quickstart
 
-Clone the repository then run 'npm install' in the root directory to install dependencies. Open `server.js` and change the configuration options at the top of the script.
+Clone the repository then run `npm install` in the root directory to install dependencies. Open `server.js` and change the configuration options at the top of the script.
 
 ## Example Website Code
 
