@@ -1,6 +1,8 @@
 # Signup Server
 A simple, minimal email signup server with db storage, geo-data logging and mailchimp integration.
 
+## Introduction
+
 The example is quite basic and does not include features such as email-confirmation or authentication, but these can easily be added as required.
 
 Its important to note that some countries and jurisdictions require a confirmation email to be sent to the user before storing their address, and agreement from them for you to store their location data.
